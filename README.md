@@ -39,7 +39,6 @@ Healthcare test result prediction is crucial for optimizing medical diagnoses an
   - Accuracy: The overall correctness of the model.
   - Precision and Recall: Important for measuring the model’s performance on individual test result categories (Normal, Inconclusive, Abnormal).
   - F1-Score: A balance between precision and recall.
-- Cross-validation was performed to validate model robustness.
 
 5. Results and Interpretation
 - Boosting was identified as the best-performing model, achieving the highest accuracy of 0.35 after tuning.
